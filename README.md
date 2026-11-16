@@ -15,8 +15,6 @@ NYU TANDON ECE DEPT
 370 JAY ST FL 10  
 BROOKLYN NY 11201-3828  
 
----
-
 ## Publications
 ### PyraNet: A Multi-Layered Hierarchical Dataset for Verilog
 2025-06-22 | Conference paper  
